@@ -31,19 +31,13 @@ THEN I find a concise, descriptive title
  
 - What did you learn?
 
-structure of the HTML elements
-
-structure of CSS
-
-semantic HTML elements
-
-logical structure of CSS
-
-accessible alt attributes
-
-Git I learned git doing this repo
-
-Github Pages
+- structure of the HTML elements
+- structure of CSS
+- semantic HTML elements
+- logical structure of CSS
+- accessible alt attributes
+- Git I learned git doing this repo
+- Github Pages
   
 ## Installation
 
