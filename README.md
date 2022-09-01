@@ -65,12 +65,9 @@ git@github.com:joemogy/02-challenge.git
 
 git pull
 
+Screenshot
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![Screenshot](assets/images/screenshot.png)
-    ```
+![Screenshot](assets/images/screenshot.png)
 
 ##Credits
   https://www.w3schools.com/html/default.asp
