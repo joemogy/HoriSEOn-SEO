@@ -1,16 +1,13 @@
-# 02-challenge
+# HoriSEOn-SEO
 ## 01 HTML, CSS, and Git: Code Refactor
 
 ## Description
 Short discription
 
 --In this repository you will find the code to a website that I edited to meet the Acceptance criteria from the Client Horiseom
-(the client Horiseon is actually UofTbootcamp)
- 
+(the client HoriSEOn)
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-
-  I was given starter code in a folder called `Develop`, in which I modifed the code to complete the Challenge.
+  I was given starter code in a folder called `Develop`, in which I modifed the code to complete the Code.
   
 - What problem does it solve?
 
@@ -29,7 +26,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
  
-- What did you learn?
+- What did I learn?
 
 - structure of the HTML elements
 - structure of CSS
@@ -44,18 +41,18 @@ THEN I find a concise, descriptive title
 download from repo via zip, http, ssh.
 
 HTTP
-https://github.com/joemogy/02-challenge.git
+https://github.com/joemogy/HoriSEOn-SEO.git
 
 SSH
-git@github.com:joemogy/02-challenge.git
+git@github.com:joemogy/HoriSEOn-SEO.git
 
 ## Usage
 
 HTTP
-https://github.com/joemogy/02-challenge.git
+https://github.com/joemogy/HoriSEOn-SEO.git
 
 SSH
-git@github.com:joemogy/02-challenge.git
+git@github.com:joemogy/HoriSEOn-SEO.git
 
 git pull
 
@@ -74,7 +71,7 @@ Screenshot
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Joseph-Kennedy-Duncan-Mogavero]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
